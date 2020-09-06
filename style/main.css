@@ -57,15 +57,15 @@ main {
 }
 
 .icon_lamp {
-    background: url(./img/icon/lamp.png) no-repeat center ;
+    background: url(../img/icon/lamp.png) no-repeat center ;
 }
 
 .icon_keyboard {
-    background: url(./img/icon/keyboard.png) no-repeat center;
+    background: url(../img/icon/keyboard.png) no-repeat center;
 }
 
 .icon_lightning {
-    background: url(./img/icon/lightning.png) no-repeat center;
+    background: url(../img/icon/lightning.png) no-repeat center;
 }
 
 h2 {
@@ -80,7 +80,7 @@ p {
 }
     /*Почти такое же как main только чуть менее важное*/
 .subject {
-    background-image: url(./img/custom.png);
+    background-image: url(../img/custom.png);
     background-size: auto;
     padding-bottom: 63px;
 }
@@ -141,49 +141,49 @@ footer {
     display: inline-block;
     width: 44px;
     height: 24px;
-    background: url(./img/icon/facebook.png) no-repeat;
+    background: url(../img/icon/facebook.png) no-repeat;
 }
 
 .twitter {
     display: inline-block;
     width: 44px;
     height: 24px;
-    background: url(./img/icon/twitter.png) no-repeat;
+    background: url(../img/icon/twitter.png) no-repeat;
 }
 
 .vk {
     display: inline-block;
     width: 44px;
     height: 24px;
-    background: url(./img/icon/vk.png) no-repeat;
+    background: url(../img/icon/vk.png) no-repeat;
 }
 
 .pinterest {
     display: inline-block;
     width: 44px;
     height: 24px;
-    background: url(./img/icon/pinterest.png) no-repeat;
+    background: url(../img/icon/pinterest.png) no-repeat;
 }
 
 .instagram {
     display: inline-block;
     width: 44px;
     height: 24px;
-    background: url(./img/icon/instagram.png) no-repeat;
+    background: url(../img/icon/instagram.png) no-repeat;
 }
 
 .stumbleupon {
     display: inline-block;
     width: 44px;
     height: 24px;
-    background: url(./img/icon/stumbleupon.png) no-repeat;
+    background: url(../img/icon/stumbleupon.png) no-repeat;
 }
 
 .rss {
     display: inline-block;
     width: 24px;
     height: 24px;
-    background: url(./img/icon/rss.png) no-repeat;
+    background: url(../img/icon/rss.png) no-repeat;
 }
 
 .date_themes {
