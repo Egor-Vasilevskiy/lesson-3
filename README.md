@@ -1,5 +1,7 @@
 # lesson-3
 
+https://smailent.github.io/lesson-3/
+
 # Домашнее задание к уроку 3
 
 ### Верстаем макет.
